@@ -8,7 +8,7 @@
 
 ## First Sight - (Abstract)
 
-* Dear love, 
+*Dear love,* 
 
 I am back, as I promised you in the last summer when the duty called me. I still remember your gaze following the long tracks at the train station. All these days it was your memories that lead me forward.. and as I promised you, I am back with a gift that no one ever gifted, an everlasting gift to cherish our immortal love. 
 
@@ -18,7 +18,7 @@ Oh my love, Here I present you the ‘Lovecoin’- the secret key to our love pa
 
 Today, we create a “Lovedentity” for our blended souls. There is no longer You and Me, it is ‘We’ and always will be.
 
-With Love *
+*With Love*
 
 
 
