@@ -102,31 +102,31 @@ Love is built on a lot of delicate components the Trust and Care being the forem
 The transaction cost of Lovecoin basically depends upon many factors including Gaslimit and Gas Price in Ethereum blockchain, and the values change constantly. A sample transaction cost calculation when Gas Price =1 gwei
 
 #### BUY LOVECOIN
-*Gas limit : 142250*
-*Gas Price = 1 gwei*
-*Max Tx Fee: 0.000142 ETH - 0.12 $*
+*Gas limit : 142250* </br>
+*Gas Price = 1 gwei* </br>
+*Max Tx Fee: 0.000142 ETH - 0.12 $* </br>
 
 #### GIFT LOVECOIN
-*Gas limit : 78263*
-*Gas Price =1 gwei*
-*Max Tx Fee: 0.000078 ETH - 0.07 $*
+*Gas limit : 78263* </br>
+*Gas Price =1 gwei* </br>
+*Max Tx Fee: 0.000078 ETH - 0.07 $* </br>
 
 #### READY FOR SALE
-*Gas limit : 63411*
-*Gas Price =1 gwei*
-*Max Tx Fee: 0.000063 ETH - 0.05 $*
+*Gas limit : 63411* </br>
+*Gas Price =1 gwei* </br>
+*Max Tx Fee: 0.000063 ETH - 0.05 $* </br>
 
 #### BIDDING
-*Gas Price =1 gwei*
-*Max Tx. Fee: 0.09 $*
+*Gas Price =1 gwei* </br>
+*Max Tx. Fee: 0.09 $* </br>
 
 #### APPROVE BID
-*Gas Price =1 gwei*
-*Max Tx. Fee: 0.02 $*
+*Gas Price =1 gwei* </br>
+*Max Tx. Fee: 0.02 $* </br>
 
 #### CLAIM LOVECOIN
-*Gas Price =1 gwei*
-*Max Tx. Fee: 0.06 $*
+*Gas Price =1 gwei*</br>
+*Max Tx. Fee: 0.06 $*</br>
 
 ## Conclusion (Lets breakup)
 Many love stories stood the test of time because of the marks they made in history, either as a folk story or as a monument or by some other means. Ardent lovers always found a distinct way to express their deep affection for each other, it was such ‘distinct ways’ that carved their stories in history. Taj Mahal is such an example, it is because of the Taj, the love story of Shahjahan and Mumtaz Mahal is still celebrated. In today's highly connected digital world, team Lovecoin is giving a new direction and dimension to love, an opportunity to become the part of history, an offer to express the love in a unique way, a chance to construct a monument to mark your love story in history books.
@@ -135,6 +135,6 @@ Lovecoin is more than a gift, it is an everlasting edifice to manifest your love
 
 We believe in love, our religion is love and our language is Love. That is why we adopted the Blockchain technology to develop a unique digital collectible which will withstand the tides of time and manifest your love to the present and future generation.
 
-*With Love*
+*With Love* </br>
 ***Team Lovecoin***
 
