@@ -1,12 +1,12 @@
 
-#Love Letter- A whitepaper on Lovecoin
+# Love Letter- A whitepaper on Lovecoin
 --------------------------------------
 
 ***Lovecoin: ‘Your Love is Blockchained’***
 
-<img align="right" src="https://lovecoin.online/images/loveletter-head.png" width="228.395px" height="300px" />
+<img align="right" src="https://lovecoin.online/images/loveletter-head.png" width="100%" height="300px" />
 
-##First Sight - (Abstract)
+## First Sight - (Abstract)
 
 Dear love,
 
