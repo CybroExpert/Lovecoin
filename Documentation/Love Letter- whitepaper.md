@@ -4,7 +4,8 @@
 
 ***Lovecoin: ‘Your Love is Blockchained’***
 
-<img align="right" src="https://lovecoin.online/images/loveletter-head.png"/> </br>
+<img align="center" src="https://lovecoin.online/images/loveletter-head.png"/> </br>
+
 ## First Sight - (Abstract)
 
 Dear love,
