@@ -1,6 +1,6 @@
 
 # Love Letter- A whitepaper on Lovecoin
---------------------------------------
+---------------------------------------
 
 ***Lovecoin: ‘Your Love is Blockchained’***
 
