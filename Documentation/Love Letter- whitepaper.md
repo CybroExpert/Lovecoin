@@ -137,4 +137,4 @@ We believe in love, our religion is love and our language is Love. That is why w
 
 *With Love* </br>
 ***Team Lovecoin***
-
+<img align="center" src="https://lovecoin.online/images/couples.png"/> </br>
