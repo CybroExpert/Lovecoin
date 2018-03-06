@@ -34,6 +34,8 @@ The tag line may invoke lot of question in listeners mind. What is ‘Love is bl
 
 Next important process occurs when  the owner gift the coin to someone. When the owner gift the coin, a new transaction log is passed to the blockchain. But this time, two data fields are also attached to the ‘Block’  i.e the two names that has been provided by the user. This is where the permanency of Lovecoin, and the ‘Love is Blockchained’ concepts become real.
 
+<img align="center" src="https://lovecoin.online/images/love-chain.png"/> </br>
+
 ### What are other possibilities?
 
 Apart from buying and gifting we have also provided Lovecoin ‘sell’ option and WoL spot Bid option. When someone sells their lovecoin, a new block is added to blockchain to enforce the change of ownership. The corresponding WoL will also get transferred to the new owner.
