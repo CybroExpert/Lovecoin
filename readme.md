@@ -40,6 +40,8 @@ Apart from buying and gifting we have also provided Lovecoin ‘sell’ option a
 
 The ‘Bid on WoL spot’ option gives anyone the opportunity to place a bid for a particular spot in WoL. If someone like a spot that has already been occupied someone else then places an enticing offer. The bid process basically includes more than one blockchain transactions.  Placing the bid, Approval (Acceptance) from the owner and Claiming the coin. In order to place the bid, the bidder must have sufficient ETH balance and the amount must be greater than the highest available bid.
 
+<img align="center" src="https://lovecoin.online/images/lovecoin.png"/> </br>
+
 ### Some questions you might have
 
 ###### * Why is Lovecoin a precious gift?
